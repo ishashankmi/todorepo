@@ -1,3 +1,4 @@
+* page in fixed resolution.
 * search bar in every page.
 * add banners in index page.
 * proper signup.
